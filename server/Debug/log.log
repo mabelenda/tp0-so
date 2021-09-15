@@ -1,0 +1,54 @@
+[INFO] 20:04:14:709 Servidor/(5567:5567): Servidor listo para recibir al cliente
+[INFO] 20:06:07:420 Servidor/(5567:5567): Se conecto un cliente!
+[WARNING] 20:06:07:420 Servidor/(5567:5567): Operacion desconocida. No quieras meter la pata
+[ERROR] 20:06:07:420 Servidor/(5567:5567): el cliente se desconecto. Terminando servidor
+[INFO] 20:18:36:226 Servidor/(6321:6321): Servidor listo para recibir al cliente
+[INFO] 20:19:00:408 Servidor/(6321:6321): Se conecto un cliente!
+[WARNING] 20:19:00:408 Servidor/(6321:6321): Operacion desconocida. No quieras meter la pata
+[INFO] 20:19:03:553 Servidor/(6321:6321): Me llegaron los siguientes valores:
+
+[INFO] 20:19:21:981 Servidor/(6321:6321): Me llegaron los siguientes valores:
+
+[INFO] 20:19:22:784 Servidor/(6321:6321): Me llegaron los siguientes valores:
+
+[INFO] 20:19:23:185 Servidor/(6321:6321): Me llegaron los siguientes valores:
+
+[INFO] 20:19:23:504 Servidor/(6321:6321): Me llegaron los siguientes valores:
+
+[INFO] 20:19:23:800 Servidor/(6321:6321): Me llegaron los siguientes valores:
+
+[ERROR] 20:19:26:250 Servidor/(6321:6321): el cliente se desconecto. Terminando servidor
+[INFO] 20:19:40:768 Servidor/(6508:6508): Servidor listo para recibir al cliente
+[INFO] 20:19:46:778 Servidor/(6508:6508): Se conecto un cliente!
+[WARNING] 20:19:46:778 Servidor/(6508:6508): Operacion desconocida. No quieras meter la pata
+[INFO] 20:19:48:496 Servidor/(6508:6508): Me llegaron los siguientes valores:
+
+[INFO] 20:21:09:311 Servidor/(6508:6508): Me llegaron los siguientes valores:
+
+[ERROR] 20:21:09:739 Servidor/(6508:6508): el cliente se desconecto. Terminando servidor
+[INFO] 20:21:13:375 Servidor/(6595:6595): Servidor listo para recibir al cliente
+[INFO] 20:21:23:362 Servidor/(6595:6595): Se conecto un cliente!
+[WARNING] 20:21:23:362 Servidor/(6595:6595): Operacion desconocida. No quieras meter la pata
+[INFO] 20:21:29:433 Servidor/(6595:6595): Me llegaron los siguientes valores:
+
+[ERROR] 20:21:29:434 Servidor/(6595:6595): el cliente se desconecto. Terminando servidor
+[INFO] 20:23:24:504 Servidor/(6871:6871): Servidor listo para recibir al cliente
+[INFO] 20:23:26:025 Servidor/(6871:6871): Se conecto un cliente!
+[WARNING] 20:23:26:025 Servidor/(6871:6871): Operacion desconocida. No quieras meter la pata
+[ERROR] 20:23:27:030 Servidor/(6871:6871): el cliente se desconecto. Terminando servidor
+[INFO] 20:23:37:369 Servidor/(6896:6896): Servidor listo para recibir al cliente
+[INFO] 20:23:38:639 Servidor/(6896:6896): Se conecto un cliente!
+[WARNING] 20:23:38:639 Servidor/(6896:6896): Operacion desconocida. No quieras meter la pata
+[INFO] 20:23:39:413 Servidor/(6896:6896): Me llegaron los siguientes valores:
+
+[INFO] 20:23:40:319 Servidor/(6896:6896): Me llegaron los siguientes valores:
+
+[INFO] 20:23:41:176 Servidor/(6896:6896): Me llegaron los siguientes valores:
+
+[INFO] 20:23:41:535 Servidor/(6896:6896): Me llegaron los siguientes valores:
+
+[INFO] 20:23:41:986 Servidor/(6896:6896): Me llegaron los siguientes valores:
+
+[INFO] 20:23:42:341 Servidor/(6896:6896): Me llegaron los siguientes valores:
+
+[ERROR] 20:23:44:046 Servidor/(6896:6896): el cliente se desconecto. Terminando servidor
